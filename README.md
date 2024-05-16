@@ -15,7 +15,6 @@
 - `TypeScript`:  Uso de TypeScript para mejorar la calidad del código mediante tipado estático.
 - `Vite`:  Configuración de proyecto basada en Vite para un desarrollo rápido y una experiencia de desarrollo moderna.
 - `TailwindCSS`: Implementación de estilos utilizando TailwindCSS para un diseño estilizado y responsive.
-- `useReducer`: Gestión de estados complejos con el hook useReducer de React.
 
 ## Configuración del Proyecto ⚒️
 >[!NOTE]
